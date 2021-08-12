@@ -1,17 +1,12 @@
 # Castle-Attack
-Benjamin Wang, University of Michigan
-
-Personal project, Summer 2021
-
-benhwang@umich.edu
+Benjamin Wang, University of Michigan  
+Personal project, Summer 2021  
+benhwang@umich.edu  
 
 Description:  
-
-Simple 2-player cannon shooter game.
-
-Take turns destroying the opponents tower by controlling your cannons angle and power.
-
-take into account the wind and avoid the tree as you attempt to damage your opponents tower.
+Simple 2-player cannon shooter game.   
+Take turns destroying the opponents tower by controlling your cannons angle and power.   
+take into account the wind and avoid the tree as you attempt to damage your opponents tower.   
 
 To Play:
 Download all files into the same folder and run Castle Attack.exe
