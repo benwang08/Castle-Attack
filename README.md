@@ -7,6 +7,7 @@ Description:
 Simple 2-player cannon shooter game.   
 Take turns destroying the opponents tower by controlling your cannons angle and power.   
 take into account the wind and avoid the tree as you attempt to damage your opponents tower.   
+coded using C++ and SFML (Simple and Fast Multimedia Library)
 
 
 To Play:  
