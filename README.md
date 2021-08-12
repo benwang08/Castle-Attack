@@ -1,7 +1,10 @@
 # Castle-Attack
 Benjamin Wang, University of Michigan
+
 Personal project, Summer 2021
+
 benhwang@umich.edu
+
 
 Description:
 Simple 2-player cannon shooter game.
