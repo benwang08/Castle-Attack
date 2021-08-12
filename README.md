@@ -11,10 +11,12 @@ take into account the wind and avoid the tree as you attempt to damage your oppo
 Coded using C++ and SFML (Simple and Fast Multimedia Library)
 
 
+
 To Play:  
 Download all files into the same folder and run Castle Attack.exe  
 or  
 Download Castle Attack.zip file and extract files into same folder to run Castle Attack.exe  
+
 
 
 Instructions:  
