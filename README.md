@@ -13,7 +13,7 @@ Coded using C++ and SFML (Simple and Fast Multimedia Library)
   
 To Play:  
 ---
-Download Castle Attack.zip file and extract files into same folder and run Castle Attack.exe  
+Download Castle Attack.rar file and extract files into same folder and run Castle Attack.exe  
 
 
 Instructions:  
