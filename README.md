@@ -3,7 +3,7 @@ Benjamin Wang, University of Michigan
 Personal project, Summer 2021  
 benhwang@umich.edu  
 
-![alt text](https://imgur.com/chuN7IG)
+![alt text](https://i.imgur.com/chuN7IG.png)
 
 Description:  
 ---
