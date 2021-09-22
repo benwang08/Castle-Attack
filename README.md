@@ -3,6 +3,8 @@ Benjamin Wang, University of Michigan
 Personal project, Summer 2021  
 benhwang@umich.edu  
 
+![alt text](https://i.imgur.com/oqclZv5.png)
+
 Description:  
 ---
 Simple 2-player cannon shooter game.   
